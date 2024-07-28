@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SAMMY0909
+- 👋 Hi, I’m @jirahandler
 - 👀 I’m interested in Particle Physics Research , both theoretical and experimental.
 - 🌱 I’m currently learning new techniques in b-Tagging including new Machine Learning algorithms to do the same.
 - 💞️ I’m looking to learn more and more core C++ and Python.
